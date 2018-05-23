@@ -20,4 +20,5 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[LJMU Cyber Security Society](https://ljmusecuritysociety.wordpress.com/)|Liverpool John Moores University|Liverpool| N/A| N/A|
 |[Nottingham Hacking and Programming Society](https://www.su.nottingham.ac.uk/societies/society/hack/)|University of Nottingham|Nottingham| N/A| N/A |
 |[Plymouth's Computer Information Society](https://www.upsu.com/societies/9419/)|University of Plymouth|Plymouth| N/A| N/A|
+|SIGINT|University of Edinburgh|Edinburgh|contact@sigint.mx|
 |[Southampton University Cyber Security Society](https://www.sucss.org/)|University of Southampton|Southampton| N/A| N/A |
