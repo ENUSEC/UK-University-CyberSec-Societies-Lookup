@@ -16,6 +16,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |HackSheffield|University of Sheffield|Sheffield| N/A|
 |Kent Cyber Security Society|University of Kent|Kent| N/A|
 |Lancaster Hackers|Lancaster University|Lancaster| N/A|
+|Leeds Hacking Soceity|Leeds Beckett University|Leeds| N/A|
 |LJMU Cyber Security Society|Liverpool John Moores University|Liverpool| N/A|
 |Nottingham Hacking and Programming Society|University of Nottingham|Nottingham| N/A|
 |Plymouth's Computer Information Society|University of Plymouth|Plymouth| N/A|
