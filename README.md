@@ -12,7 +12,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|Greenwich| N/A | @UoG_Hackers |
 |[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| enusec@gmail.com| @\_enusec\_ |
 |[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @gcustudents |
-|[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @HackKeele |
+|[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
 |[HackSheffield](https://www.hacksheffield.co/)|University of Sheffield|Sheffield| N/A| @hacksheffield |
 |[Kent Cyber Security Society](https://kentunion.co.uk/activities/cyber-security)|University of Kent|Kent| N/A| N/A |
 |[Lancaster Hackers](https://luhack.github.io/)|Lancaster University|Lancaster| N/A| N/A | @lancsunihackers |
@@ -20,5 +20,5 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[LJMU Cyber Security Society](https://ljmusecuritysociety.wordpress.com/)|Liverpool John Moores University|Liverpool| N/A| N/A|
 |[Nottingham Hacking and Programming Society](https://www.su.nottingham.ac.uk/societies/society/hack/)|University of Nottingham|Nottingham| N/A| N/A |
 |[Plymouth's Computer Information Society](https://www.upsu.com/societies/9419/)|University of Plymouth|Plymouth| N/A| N/A|
-|[SIGINT](https://sigint.mx/)|University of Edinburgh|Edinburgh|contact@sigint.mx|
+|[SIGINT](https://sigint.mx/)|University of Edinburgh|Edinburgh|contact@sigint.mx|@siginthq|
 |[Southampton University Cyber Security Society](https://www.sucss.org/)|University of Southampton|Southampton| N/A| N/A |
