@@ -5,7 +5,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |---|---|---|---|---|
 |[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.ac.uk| @AbertayHackers
 |[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|N/A|N/A |
-|[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk |N/A |
+|[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
 |[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
 |[Hackers at Cambridge](https://hackersatcambridge.com/)|University of Cambridge|Cambridge| N/A|N/A|
 |[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|help@dmuhackers.com|@dmuhackers|
@@ -18,7 +18,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[Lancaster Hackers](https://luhack.github.io/)|Lancaster University|Lancaster| N/A| N/A | @lancsunihackers |
 |[Leeds Hacking Soceity](http://leedshackingsociety.co.uk/)|Leeds Beckett University|Leeds|leedshackingsociety@gmail.com| @leedsehs |
 |[LJMU Cyber Security Society](https://ljmusecuritysociety.wordpress.com/)|Liverpool John Moores University|Liverpool| N/A| N/A|
-|[Nottingham Hacking and Programming Society](https://www.su.nottingham.ac.uk/societies/society/hack/)|University of Nottingham|Nottingham| N/A| N/A |
+|[Nottingham Hacking and Programming Society](https://www.su.nottingham.ac.uk/societies/society/hack/)|University of Nottingham|Nottingham| N/A| @hacksocnotts |
 |[Plymouth's Computer Information Society](https://www.upsu.com/societies/9419/)|University of Plymouth|Plymouth| N/A| N/A|
 |[SIGINT](https://sigint.mx/)|University of Edinburgh|Edinburgh|contact@sigint.mx|@siginthq|
 |[Southampton University Cyber Security Society](https://www.sucss.org/)|University of Southampton|Southampton| N/A| N/A |
