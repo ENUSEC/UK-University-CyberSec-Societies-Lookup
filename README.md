@@ -1,4 +1,4 @@
-# UK-University-CyberSec-Societies-Lookup
+# UK University Cyber Security Societies Lookup
 A comprehensive list of all cyber security/ethical hacking/information security societies associated to universities within the UK.
 
 |SOCIETY         | UNIVERSITY                      | LOCATION         | EMAIL               |
