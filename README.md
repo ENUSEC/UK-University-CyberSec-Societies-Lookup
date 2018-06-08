@@ -4,7 +4,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |SOCIETY         | UNIVERSITY                      | LOCATION         | EMAIL               | TWITTER               |
 |---|---|---|---|---|
 |[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.ac.uk| @AbertayHackers
-|[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|N/A|N/A |
+|[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|N/A| @UoB_afnom |
 |[ARUSEC](https://www.angliastudent.com/socs/21101/)|Anglia Ruskin University|Cambridge|arucybercambridge@gmail.com|@arusec|
 |[ARU Cyber Society](https://www.angliastudent.com/socs/20698/)|Anglia Ruskin University|Chelmsford|arucybersociety@gmail.com|@ARUCyberSociety|
 |[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
