@@ -4,12 +4,12 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |SOCIETY         | UNIVERSITY                      | LOCATION         | EMAIL               | TWITTER               |
 |---|---|---|---|---|
 |[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.ac.uk| @AbertayHackers
-|[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|N/A| @UoB_afnom |
+|[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|chaos@afnom.net| @UoB_afnom |
 |[ARU Cyber Security Society (Cambridge)](https://www.angliastudent.com/socs/21101/)|Anglia Ruskin University|Cambridge|arucybercambridge@gmail.com|@arucss|
 |[ARU Cyber Society (Chelmsford)](https://www.angliastudent.com/socs/20698/)|Anglia Ruskin University|Chelmsford|arucybersociety@gmail.com|@ARUCyberSociety|
 |[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
 |[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
-|[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|help@dmuhackers.com|@dmuhackers|
+|[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
 |[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|London| N/A | @UoG_Hackers |
 |[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| enusec@gmail.com| @\_enusec\_ |
 |[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @GCUehs |
