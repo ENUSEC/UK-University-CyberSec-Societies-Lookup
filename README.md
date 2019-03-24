@@ -14,7 +14,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @GCUehs |
 |[Hackers at Cambridge](https://hackersatcambridge.com/)|University of Cambridge|Cambridge| N/A|N/A|
 |[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
-|[HackSheffield](https://www.hacksheffield.co/)|University of Sheffield|Sheffield| N/A| @hacksheffield |
+|[Sheffield Ethical Student Hackers](https://shefesh.com/)|University of Sheffield|Sheffield|ethicalhackers@sheffield.ac.uk| @_shefesh |
 |[Kent Cyber Security Society](https://kentunion.co.uk/activities/cyber-security)|University of Kent|Kent| N/A| N/A |
 |[Lancaster Hackers](https://luhack.github.io/)|Lancaster University|Lancaster| N/A| @lancsunihackers |
 |[Leeds Hacking Soceity](http://leedshackingsociety.co.uk/)|Leeds Beckett University|Leeds|leedshackingsociety@gmail.com| @leedsehs |
