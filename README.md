@@ -10,7 +10,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
 |[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
 |[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|London| N/A | @UoG_Hackers |
-|[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| enusec@gmail.com| @\_enusec\_ |
+|[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| enusec@gmail.com| @enusec |
 |[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @GCUehs |
 |[Hackers at Cambridge](https://hackersatcambridge.com/)|University of Cambridge|Cambridge| N/A|N/A|
 |[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
