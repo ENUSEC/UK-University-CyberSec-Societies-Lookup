@@ -8,6 +8,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[ARU Cyber Security Society (Cambridge)](https://www.angliastudent.com/socs/21101/)|Anglia Ruskin University|Cambridge|arucybercambridge@gmail.com|@arucss|
 |[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
 |[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
+|Bristol Hackers|Bristol University|Bristol|N/A| @BristolHackers |
 |[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
 |[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|London| N/A | @UoG_Hackers |
 |[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| team@enusec.org| @enusec |
