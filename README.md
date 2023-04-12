@@ -3,16 +3,14 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 
 |SOCIETY         | UNIVERSITY                      | LOCATION         | EMAIL               | TWITTER               |
 |---|---|---|---|---|
-|[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.ac.uk| @AbertayHackers
+|[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.co.uk| @AbertayHackers
 |[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|chaos@afnom.net| @UoB_afnom |
-|[ARU Cyber Security Society (Cambridge)](https://www.angliastudent.com/socs/21101/)|Anglia Ruskin University|Cambridge|arucybercambridge@gmail.com|@arucss|
-|[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
-|[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
+|[Bournemouth University Cyber Security Society (BUCSS)](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|hello@bucss.net | @_BUCSS |
 |Bristol Hackers|Bristol University|Bristol|N/A| @BristolHackers |
-|[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
+|[DMU Hackers](https://dmuhackers.com/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
 |[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|London| N/A | @UoG_Hackers |
 |[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| team@enusec.org| @enusec |
-|[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @GCUehs |
+|[GCU Ethical Hacking Society](https://gcuhacking.com/)|Glasgow Caledonian University|Glasgow| N/A| @GCUHacking |
 |[Hackers at Cambridge](https://hackersatcambridge.com/)|University of Cambridge|Cambridge| N/A|N/A|
 |[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
 |[Sheffield Ethical Student Hackers](https://shefesh.com/)|University of Sheffield|Sheffield|ethicalhackers@sheffield.ac.uk| @_shefesh |
