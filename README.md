@@ -6,23 +6,26 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |[Abertay Hackers](https://hacksoc.co.uk/) |Abertay University | Dundee|team@hacksoc.ac.uk| @AbertayHackers
 |[AFiniteNumberOfMonkeys](http://afnom.net/)|University of Birmingham|Birmingham|chaos@afnom.net| @UoB_afnom |
 |[ARU Cyber Security Society (Cambridge)](https://www.angliastudent.com/socs/21101/)|Anglia Ruskin University|Cambridge|arucybercambridge@gmail.com|@arucss|
-|[Bournemouth University Cyber Security Society](https://bucsu.bournemouth.ac.uk/subu-cyber-security-society/)|Bournemouth University|Bournemouth|subucybersecuritysoc@bournemouth.ac.uk | @_BUCSS |
-|[Chester Ethical Hackers](https://www.chestersu.com/activities/societies/society/10956/)|University of Chester|Chester| N/A| @chesterhackers |
-|Bristol Hackers|Bristol University|Bristol|N/A| @BristolHackers |
+|[Bournemouth University Computer & Security Society](https://www.subu.org.uk/organisation/cybersecuritysociety/)|Bournemouth University|Bournemouth|subucompandsecsoc@bournemouth.ac.uk | [insta] (https://www.instagram.com/_bucss/) |
+|[Bournemouth University CyberSecWomen Society](https://www.subu.org.uk/organisation/cyberwomen/)|Bournemouth University|Bournemouth|subucyberwomen@bournemouth.ac.uk| [insta](https://instagram.com/cybersecwomen) |
+
+
 |[DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/)|De Montfort University|Leicester|dmuhackers@gmail.com|@dmuhackers|
-|[Ethical Hackers](https://www.suug.co.uk/societies/ethicalhackers/)|University of Greenwich|London| N/A | @UoG_Hackers |
+|[Ethical Hackers](https://www.greenwichsu.co.uk/societies/grecybersec/)|University of Greenwich|London| support@grecybersec.com | @GreCyberSec |
 |[ENUSEC](https://enusec.org/)|Edinburgh Napier University|Edinburgh| team@enusec.org| @enusec |
-|[Glasgow Caledonian University Ethical Hacking Society](https://www.gcustudents.co.uk/groups/gcu-ethical-hacking-society)|Glasgow Caledonian University|Glasgow| N/A| @GCUehs |
-|[Hackers at Cambridge](https://hackersatcambridge.com/)|University of Cambridge|Cambridge| N/A|N/A|
-|[HackKeele](http://www.hackkeele.co.uk/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
+|[Glasgow Caledonian University Ethical Hacking Society](https://gcuhacking.com/)|Glasgow Caledonian University|Glasgow| ethicalhacking@gcustudents.co.uk| @GCUHacking |
+
+|[HackKeele](https://keelesu.com/activities/society/hackkeele/)|Keele University|Keele|soc.hack@keele.ac.uk| @hackkeele |
 |[Sheffield Ethical Student Hackers](https://shefesh.com/)|University of Sheffield|Sheffield|ethicalhackers@sheffield.ac.uk| @_shefesh |
-|[Kent Cyber Security Society](https://kentunion.co.uk/activities/cyber-security)|University of Kent|Kent| N/A| N/A |
-|[Lancaster Hackers](https://luhack.github.io/)|Lancaster University|Lancaster| N/A| @lancsunihackers |
-|[Leeds Hacking Soceity](http://leedshackingsociety.co.uk/)|Leeds Beckett University|Leeds|leedshackingsociety@gmail.com| @leedsehs |
-|[Liverpool Cyber Security Society](https://www.liverpoolguild.org/groups/cyber-security)|University of Liverpool|Liverpool|cybersecurity@society.liverpoolguild.org|@CyberSocUoL|
-|[LJMU Cyber Security Society](https://ljmusecuritysociety.wordpress.com/)|Liverpool John Moores University|Liverpool| N/A| N/A|
-|[Nottingham Hacking and Programming Society](https://www.su.nottingham.ac.uk/societies/society/hack/)|University of Nottingham|Nottingham| N/A| @hacksocnotts |
-|[Plymouth's Computer Information Security Society](https://www.upsu.com/societies/7347/)|University of Plymouth|Plymouth| N/A| N/A|
-|[SHU Hack Soc](http://www.shuhacksoc.co.uk/)|Sheffield Hallam University|Sheffield| N/A| @SHUHackSoc |
+
+|[LUHack](https://luhack.github.io/)|Lancaster University|Lancaster|info@luhack.uk| @lancsunihackers |
+|[Leeds Hacking Society](https://www.leedsbeckettsu.co.uk/society/ethical-hacking/)|Leeds Beckett University|Leeds|leedshackingsociety@gmail.com| @leedsEHS |
+|[Liverpool Cyber Security Society](https://cybersocuol.github.io/)|University of Liverpool|Liverpool|cybersecurity@society.liverpoolguild.org|[insta](https://instagram.com/cybersocliverpool)|
+
+|[HackSoc Nottingham](https://hacksocnotts.co.uk/)|University of Nottingham|Nottingham|committee@hacksocnotts.co.uk| @hacksocnotts |
+
+
+|[SHU Computer Forensics Society](https://www.hallamstudentsunion.com/opportunities/societies/social/group/11667/)|Sheffield Hallam University|Sheffield|forensoc@gmail.com|  |
 |[SIGINT](https://sigint.mx/)|University of Edinburgh|Edinburgh|contact@sigint.mx|@siginthq|
-|[Southampton University Cyber Security Society](https://www.sucss.org/)|University of Southampton|Southampton| N/A| N/A |
+|[Southampton University Cyber Security Society (SUCSS)](https://www.sucss.org/)|University of Southampton|Southampton|sucss@soton.ac.uk| @sotoncyber |
+|[CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/)|University of York|York|cyber@yusu.org|@CyberSocYork|
