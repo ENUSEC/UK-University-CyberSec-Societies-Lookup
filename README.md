@@ -8,6 +8,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [Bournemouth University Computer & Security Society](https://www.subu.org.uk/organisation/cybersecuritysociety/) | Bournemouth University | Bournemouth | subucompandsecsoc@bournemouth.ac.uk | [insta](https://www.instagram.com/_bucss/) |
 | [Bournemouth University CyberSecWomen Society](https://www.subu.org.uk/organisation/cyberwomen/) | Bournemouth University | Bournemouth | subucyberwomen@bournemouth.ac.uk | [insta](https://instagram.com/cybersecwomen) |
 | [Cardiff Met CTF Society](metctf.org.uk/) | Cardiff Met University | Cardiff | ctf@cardiffmet.ac.uk | @MetCTF |
+| [UCL Hacking Seminars](https://github.com/UCLHackingSeminars) | University College London | London | N/A | @shad1126 & @lcavallaro|
 | [DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/) | De Montfort University | Leicester | dmuhackers@gmail.com | @dmuhackers |
 | [Ethical Hackers](https://www.greenwichsu.co.uk/societies/grecybersec/) | University of Greenwich | London | support@grecybersec.com | @GreCyberSec |
 | [ENUSEC](https://enusec.org/) | Edinburgh Napier University | Edinburgh | team@enusec.org | @enusec |
