@@ -7,9 +7,9 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [AFiniteNumberOfMonkeys](http://afnom.net/) |University of Birmingham | Birmingham | chaos@afnom.net | @UoB_afnom |
 | [Bournemouth University Computer & Security Society](https://www.subu.org.uk/organisation/cybersecuritysociety/) | Bournemouth University | Bournemouth | subucompandsecsoc@bournemouth.ac.uk | [insta](https://www.instagram.com/_bucss/) |
 | [Bournemouth University CyberSecWomen Society](https://www.subu.org.uk/organisation/cyberwomen/) | Bournemouth University | Bournemouth | subucyberwomen@bournemouth.ac.uk | [insta](https://instagram.com/cybersecwomen) |
-| [CYBERSECURITY](https://www.su.rhul.ac.uk/societies/a-z/cybersecurity/) | Royal Holloway University London | 'London' | cybersecurity@royalholloway.su | [linkedin](https://www.linkedin.com/company/cssrhul/) |
 | [Cardiff Met CTF Society](metctf.org.uk/) | Cardiff Met University | Cardiff | ctf@cardiffmet.ac.uk | @MetCTF |
 | [Cyber Security Society](https://www.uswsu.com/organisation/uswcss/) | University of South Wales | Newport | 30059581@students.southwlaes.ac.uk | N/A |
+| [CYBERSECURITY](https://www.su.rhul.ac.uk/societies/a-z/cybersecurity/) | Royal Holloway University London | 'London' | cybersecurity@royalholloway.su | [linkedin](https://www.linkedin.com/company/cssrhul/) |
 | [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | @CyberSocYork |
 | [DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/) | De Montfort University | Leicester | dmuhackers@gmail.com | @dmuhackers |
 | [ENUSEC](https://enusec.org/) | Edinburgh Napier University | Edinburgh | team@enusec.org | @enusec |
