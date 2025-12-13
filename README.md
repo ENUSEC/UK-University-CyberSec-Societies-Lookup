@@ -1,7 +1,7 @@
 # UK University Cyber Security Societies Lookup
 A comprehensive list of all cyber security/ethical hacking/information security societies associated to universities within the UK.
 
-|SOCIETY | UNIVERSITY | LOCATION | EMAIL | TWITTER/INSTAGRAM |
+|SOCIETY | UNIVERSITY | LOCATION | EMAIL | SOCIAL MEDIAS |
 |---|---|---|---|---|
 | [Abertay Hackers](https://hacksoc.co.uk/) | Abertay University | Dundee | team@hacksoc.ac.uk | @AbertayHackers |
 | [AFiniteNumberOfMonkeys](http://afnom.net/) |University of Birmingham | Birmingham | chaos@afnom.net | @UoB_afnom |
