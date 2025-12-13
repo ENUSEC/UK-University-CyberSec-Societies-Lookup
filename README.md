@@ -10,8 +10,8 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [Cardiff Met CTF Society](metctf.org.uk/) | Cardiff Met University | Cardiff | ctf@cardiffmet.ac.uk | @MetCTF |
 | [Cyber Security Society](https://www.uswsu.com/organisation/uswcss/) | University of South Wales | Newport | 30059581@students.southwlaes.ac.uk | N/A |
 | [CYBERSECURITY](https://www.su.rhul.ac.uk/societies/a-z/cybersecurity/) | Royal Holloway University London | 'London' | cybersecurity@royalholloway.su | [linkedin](https://www.linkedin.com/company/cssrhul/) |
-| [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | @CyberSocYork |
-| [DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/) | De Montfort University | Leicester | dmuhackers@gmail.com | @dmuhackers |
+| [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | [insta](https://www.instagram.com/cybersocyork/) [discord](https://www.discord.gg/mUeP5j2)|
+| [DMU Hackers](https://www.demontfortsu.com/soc/DMUHackers/) | De Montfort University | Leicester | dmuhackers@gmail.com | [website](https://dmuhackers.com/) |
 | [ENUSEC](https://enusec.org/) | Edinburgh Napier University | Edinburgh | team@enusec.org | @enusec |
 | [Ethical Hackers](https://www.greenwichsu.co.uk/societies/grecybersec/) | University of Greenwich | London | support@grecybersec.com | @GreCyberSec |
 | [Glasgow Caledonian University Ethical Hacking Society](https://gcuhacking.com/) | Glasgow Caledonian University | Glasgow | ethicalhacking@gcustudents.co.uk | @GCUHacking |
