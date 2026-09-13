@@ -15,6 +15,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [ENUSEC](https://enusec.org/) | Edinburgh Napier University | Edinburgh | team@enusec.org | @enusec |
 | [Ethical Hackers](https://www.greenwichsu.co.uk/societies/grecybersec/) | University of Greenwich | London | support@grecybersec.com | @GreCyberSec |
 | [Glasgow Caledonian University Ethical Hacking Society](https://gcuhacking.com/) | Glasgow Caledonian University | Glasgow | ethicalhacking@gcustudents.co.uk | @GCUHacking |
+| [Glasgow University Hacking Society](https://guhacksoc.com/) | University of Glasgow | Glasgow | guhackingsociety@gmail.com | [Insta](https://www.instagram.com/guhacksoc) [discord](https://discord.gg/6r2rhNZKph)|
 | [HackKeele](https://keelesu.com/activities/society/hackkeele/) | Keele University | Keele | soc.hack@keele.ac.uk | @hackkeele |
 | [HackSoc Nottingham](https://hacksocnotts.co.uk/) | University of Nottingham | Nottingham | committee@hacksocnotts.co.uk | @hacksocnotts |
 | [LUHack](https://luhack.github.io/) | Lancaster University | Lancaster | info@luhack.uk | @lancsunihackers |
